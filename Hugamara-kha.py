@@ -37,11 +37,11 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Shazahn Howladear
+   𝚂𝙷𝙰𝚉𝙰𝙷𝙽 𝙷𝙾𝚆𝙻𝙰𝙳𝙴𝙰𝚁
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS Shazahn Howladear TRICKER 
+   THE ANONYMOUS 𝚂𝙷𝙰𝚉𝙰𝙷𝙽 𝙷𝙾𝚆𝙻𝙰𝙳𝙴𝙰𝙴 TRICKER 
    THE LEGEND ℒℴνℯ
-   THE GAME CHANGER ℒℴνℯ
+   THE GAME CHANGER Shazahn 𝚂𝙷𝙰𝚉𝙰𝙷𝙽 𝙷𝙾𝚆𝙻𝙰𝙳𝙴𝙰𝚁
    pakistani hackers
    ℒℴνℯ ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
